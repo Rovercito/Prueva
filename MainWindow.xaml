@@ -8,5 +8,6 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Label Content="HOLA MUNDO" VerticalContentAlignment="Center" />
+        <TextBox x:Name="txb" Margin="180"/>
     </Grid>
 </Window>
